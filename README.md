@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects to teach the next generations to code, prevent climate change and provide a sustainable world for everyone.
 - 🤔 I’m looking for people who needs my service or share the same goals with any of the above.
 - 💬 Ask me about Strategic Thinking, Artificial Intelligence, Python, PHP, PostgreSQL, Django, FastAPI, Laravel, Flutter, VueJS, ReactJS, Boostrap and more...
-- 📫 How to reach me: https://www.linkedin.com/in/maurice-chester-aguda-09b93981
+- 📫 How to reach me: https://www.linkedin.com/in/agudatech/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to analyze/solve problems and playing basketball.
 
