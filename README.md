@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for people who needs my service or share the same goals with any of the above.
 - 💬 Ask me about Strategic Thinking, Artificial Intelligence, CICD, Kubernetes/Docker, Python, PHP, PostgreSQL, Django, FastAPI, Laravel, Flutter, VueJS, ReactJS, Boostrap and more...
 - 📫 How to reach me: https://www.linkedin.com/in/agudatech/
+- 🔗 Website: https://agudatech.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to analyze/solve problems, coding and playing basketball.
 
