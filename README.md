@@ -78,7 +78,7 @@ I'm an **AI Dev Lead** at the Center for Artificial Intelligence and Smart Techn
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mauricechesteraguda&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img width="100%" src="https://ghchart.rshah.org/58a6ff/mauricechesteraguda" alt="Contribution chart" />
 </p>
 
 <p align="center">
