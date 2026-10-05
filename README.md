@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/agudatech/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://agudatech.com"><img src="https://img.shields.io/badge/Website-agudatech.com-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:maurice.aguda28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  
   <img src="https://komarev.com/ghpvc/?username=mauricechesteraguda&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="Profile views" />
 </p>
 
