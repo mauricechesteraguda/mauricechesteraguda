@@ -21,7 +21,7 @@
 
 ## 👋 About me
 
-I'm an **AI Dev Lead** at the Center for Artificial Intelligence and Smart Technologies (CAIST), Batangas State University, where I lead a team of developers and OJT trainees while still shipping code myself. I have 10+ years of full stack experience, and for the past couple of years I've focused on AI and LLM systems.
+I'm an **AI Dev Lead** at the Center for Artificial Intelligence and Smart Technologies (CAIST), Batangas State University - The National Engineering University, where I lead a team of developers and OJT trainees while still shipping code myself. I have 10+ years of full stack experience, and for the past couple of years I've focused on AI and LLM systems.
 
 - 🔭 **Working on:** AI agents, prompt/context engineering, MCP, RAG pipelines, and GitOps for my projects
 - 🌱 **Learning:** machine learning, statistics, ethical hacking, NoSQL, and more
