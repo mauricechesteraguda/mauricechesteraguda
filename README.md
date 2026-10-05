@@ -61,7 +61,7 @@ I'm an **AI Dev Lead** at the Center for Artificial Intelligence and Smart Techn
 
 ### 🏛️ Institutional work
 
-- **LEONAIDAS:** AI-powered adaptive learning ecosystem for Batangas State University (Next.js, FastAPI, Django, RAG, Kubernetes, Terraform, ArgoCD, Helm, Prometheus, Grafana)
+- **LEONAIDAS:** AI-powered adaptive learning ecosystem for Batangas State University (Next.js, FastAPI, Django, Laravel, RAG, Kubernetes, Terraform, ArgoCD, Helm, Prometheus, Grafana)
 - **BARACO:** livestock movement tracking platform with QR scanning for the Provincial Government of Batangas (Flutter, Laravel, MySQL, AWS)
 
 ---
