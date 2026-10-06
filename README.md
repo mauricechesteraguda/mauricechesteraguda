@@ -52,12 +52,14 @@ I'm an **AI Dev Lead** at the Center for Artificial Intelligence and Smart Techn
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**enterprise-knowledge-graph**](https://github.com/mauricechesteraguda/enterprise-knowledge-graph) | Production-oriented semantic data layer that unifies CRM, billing and support data into an RDF knowledge graph with SHACL validation, entity resolution, SPARQL queries and evidence-grounded GraphRAG. 67 automated tests with 85%+ branch coverage. | Python · FastAPI · RDF/OWL/SKOS · Apache Jena Fuseki · PostgreSQL/pgvector · SHACL · Docker |
 | [**ecommerce**](https://github.com/mauricechesteraguda/ecommerce) | AGUDA MARKET, a production-style marketplace with storefront, cart, checkout, customer accounts and admin order management. 420 automated tests, 88%+ backend coverage. | Next.js · Medusa · PostgreSQL · Redis · Stripe · Docker |
 | [**ehr**](https://github.com/mauricechesteraguda/ehr) | Synthetic electronic health record prototype with clinical workflows, medication safety checks, immutable audit trails, MFA and interoperable APIs. | Django REST · React/Vite TS · PostgreSQL · Celery · Redis · Caddy |
 | [**voice-command-ai-assistant**](https://github.com/mauricechesteraguda/voice-command-ai-assistant) | Voice-activated assistant that listens, reasons with an LLM, and replies with synthesized speech. | Python · LLM |
 | [**esim-store**](https://github.com/mauricechesteraguda/esim-store) | Responsive eSIM storefront designed under AGUDATECH IT Solutions. | HTML · JavaScript |
 | [**ojt-tracker-management-system**](https://github.com/mauricechesteraguda/ojt-tracker-management-system) | Research project for tracking and managing On-the-Job Training activities. | PHP · MySQL |
 | [**qr-code-scanner-flutter-app**](https://github.com/mauricechesteraguda/qr-code-scanner-flutter-app) | Flutter template demonstrating QR code scanning. | Flutter |
+
 
 ### 🏛️ Institutional work
 
