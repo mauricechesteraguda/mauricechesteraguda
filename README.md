@@ -1,6 +1,6 @@
 <!-- Header banner (animated wave) -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Maurice%20Chester%20Aguda&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Dev%20Lead%20%7C%20Full%20Stack%20Developer%20%7C%20CS%20Instructor&descAlignY=58&descSize=18" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Maurice%20Chester%20Aguda&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20AI%20Dev%20Lead%20%7C%20Full%20Stack%20Developer%20%7C%20CS%20Instructor&descAlignY=58&descSize=16" alt="header" />
 </p>
 
 <!-- Typing animation -->
